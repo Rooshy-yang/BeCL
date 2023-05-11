@@ -1,6 +1,6 @@
-# Behavior Contrastive Learning (BeCL)
+# Behavior Contrastive Learning (BeCL) 
 
-This is the official codebase for Behavior Contrastive Learning for Unsupervised Skill Discovery.
+This is the official codebase for [BeCL:Behavior Contrastive Learning for Unsupervised Skill Discovery](https://arxiv.org/abs/2305.04477), which utilizes contrastive learning as intrinsic motivation for unsupervised skill discovery. 
 
 This codebase is built on top of the [Unsupervised Reinforcement Learning Benchmark (URLB) codebase](https://github.com/rll-research/url_benchmark). Our method `BeCL` is implemented in `agents/becl.py` and the config is specified in `agents/becl.yaml`.
 
